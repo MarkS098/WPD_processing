@@ -1,1 +1,1 @@
-Fitting code for a wave-particle duality experiment.
+Fitting for a wave-particle duality experiment.
